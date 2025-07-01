@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/47789f6e-64bb-4f0b-aff7-afc3ea8eee80)System Drowsiness Detection — Raspberry Pi + YOLOv8 + Cloud
+System Drowsiness Detection — Raspberry Pi + YOLOv8 + Cloud
 
 **A Real-Time Driver Drowsiness Detection System**
 Powered by **Raspberry Pi 4**, **YOLOv8**, **Fault Tolerant**, and **Cloud Monitoring**
