@@ -1,2 +1,2 @@
 # System_Drowsiness_Detection
-Sistem pendeteksi ngantuk pada kendaraan menggunakan Raspberry Pi 4 dan model YOLOv8
+Vehicle drowsiness detection system. The system uses a Raspberry pi 4 microcontroller for its brain. Then the model for classification uses YOLOv8 which is run on a Raspberry Pi 4. The classification results are used to trigger an alarm with a buzzer and turn on the red LED light. In addition to hardware, this system also integrates cloud computing for monitoring. To increase system reliability, redundancy is added to the camera as well as retry and graceful degradation to the model
